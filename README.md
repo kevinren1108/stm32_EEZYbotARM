@@ -18,7 +18,7 @@ is a robotic arm project created for ENSE 351 final project
     * [Code](./code)    
 
 4. Visulize the data on computer(Use ST-Link virture serial port)
-    * [Python code](./data_visulizer_source_code.pdf)
+    * [Python code](./readuart)
 
 ## Licence
 MIT License
