@@ -12,9 +12,10 @@ is a robotic arm project created for ENSE 351 final project
     * [Building Instruction](https://www.instructables.com/EEZYbotARM/)
 
 2. Connect the electronic component as schematic
-    * [schematic](./STM32_EEZYbotARM_%20schematic.pdf)
+    * [schematic](./schematic/STM32_EEZYbotARM_%20schematic.pdf)
 
-3. Control the robotic arm with MPU6050 and flex sensor
+3. Download code to Necleo F103RB board
+    * [Code](./code)    
 
 4. Visulize the data on computer(Use ST-Link virture serial port)
     * [Python code](./data_visulizer_source_code.pdf)
